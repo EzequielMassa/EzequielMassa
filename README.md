@@ -18,5 +18,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezequielmassa&show_icons=true&locale=en&layout=compact" alt="ezequielmassa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EzequielMassa&theme=dracula&show_icons=true" alt="ezequielmassa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EzequielMassa&theme=react&show_icons=true" alt="ezequielmassa" /></p>
 
