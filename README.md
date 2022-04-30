@@ -27,5 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EzequielMassa&theme=react&show_icons=true" alt="ezequielmassa" /></p>
 
 <div>
-    ![Snake animation](https://github.com/EzequielMassa/EzequielMassa/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/EzequielMassa/blob/output/github-contribution-grid-snake.svg)
 </div>
