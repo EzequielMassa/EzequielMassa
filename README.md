@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&duration=4000&center=true&width=500&lines=Hi+%F0%9F%91%8B;I'm+Ezequiel+Massa)](https://git.io/typing-svg)
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🔭 I’m currently working on [challenge oracle one "e-commerce"](https://github.com/EzequielMassa/Challenge-Ecommerce-C.R.U.D-Oracle-ONE)
+- 🔭 I’m currently studying Angular in the bootcamp "Argentina Programa"
 
 - 👨‍💻 All of my projects are available at [https://ezequielmassa.github.io/Portfolio-Oracle-ONE/](https://ezequielmassa.github.io/Portfolio-Oracle-ONE/)
 
