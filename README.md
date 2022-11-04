@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying Frontend/Backend developing
 
-- 👨‍💻 All of my projects are available at [https://ezequielmassaportfolio.web.app/ezequielmassadev)
+- 👨‍💻 All of my projects are available at https://emdevportfolio.web.app/ezemassa87
 
 - 📫 How to reach me **ezequielmassa.dev@gmail.com**
 
