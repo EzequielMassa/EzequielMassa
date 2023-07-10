@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&duration=4000&center=true&width=500&lines=Hi+%F0%9F%91%8B;I'm+Ezequiel+Massa)](https://git.io/typing-svg)
 <h3 align="center">A passionate frontend/backend developer from Argentina</h3>
 
-- 🔭 I’m currently studying Frontend/Backend developing
-
 - 👨‍💻 All of my projects are available at https://emdevportfolio.web.app/ezemassa87
 
 - 📫 How to reach me **ezequielmassa.dev@gmail.com**
