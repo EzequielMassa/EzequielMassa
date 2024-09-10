@@ -2,7 +2,6 @@
 <h3 align="center">A passionate frontend/backend developer from Argentina</h3>
 
 - 👨‍💻 All of my projects are available at https://ezequielmassadev.vercel.app/
-- 🧑‍🎓 Currently studying MERN stack at <a href="https://web.rollingcodeschool.com/" target="_blank">RollingCode School</a>
 - 📫 How to reach me **ezequielmassa.dev@gmail.com**
 
 <div id="header" align="center">
